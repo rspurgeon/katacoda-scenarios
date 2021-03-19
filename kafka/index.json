@@ -1,24 +1,24 @@
 {
-  "title": "Use Kafka",
-  "description": "Kafka help",
+  "title": "Kafka 101",
+  "description": "Using the Kafka CLIs",
   "difficulty": "Beginner",
-  "time": "60 minutes",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1. Start the broker",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2. Create a topic & produce a record",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Step 3. Consume records",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Step 4. Stop the broker",
         "text": "step4.md"
       }
     ],
